@@ -1,6 +1,6 @@
 # Curso de React: praticando React com Js - da Alura
 
-[Visite o projeto online]()
+[Visite o projeto online](https://projeto-cinetag-weld.vercel.app)
 
 ## 💻 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
